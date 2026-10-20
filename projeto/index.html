@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <section class="menu">
+            <nav class="navbar navbar-expand-lg">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#"><span class="primeira">V</span>EROCAI</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="/index.html">INÍCIO</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/cardapio.html">CARDÁPIO</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/detalhes.html">DETALHES</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <section class="apresentacao">
+            <div class="destaque">
+                <h2>VEROCAI</h2>
+                <p>Sabores autênticos e pratos feitos com ingredientes frescos todos os dias.</p>
+                <a class="botao" href="cardapio.html">Ver cardápio</a>
+                <hr>
+                <div class="contagem">
+                    <div id="contador" class="contador">00:00:00</div>
+                    <p class="texto-contagem">As ofertas exclusivas terminam em: <span id="contador-texto">00:00:00</span></p>
+                </div>
+                <hr>
+                <h3>Pratos em destaque:</h3>
+            </div>
+        </section>
+        <section class="sobre">
+            <div class="pratos">
+                <div class="d-flex justify-content-center gap-5 flex-wrap">
+                    <div class="card" style="width: 18rem;">
+                        <img src="/imagens/file.jfif" class="card-img-top" alt="" height="200px" width="200px">
+                        <div class="card-body">
+                            <h5 class="card-title">Filé com Fritas</h5>
+                            <p class="card-text">Delicie-se com nosso Filé com Fritas, batatas crocantes e um tempero
+                                caseiro delicioso.</p>
+                            <h6><span class="full">&starf;&starf;&starf;&starf;&starf;</span>5.0 Estrelas</h6>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 18rem;">
+                        <img src="imagens/frango.jfif" class="card-img-top" alt="..." width="200px" height="200px">
+                        <div class="card-body">
+                            <h5 class="card-title">Frango à Parmegiana</h5>
+                            <p class="card-text">Delicie-se com o nosso Frango a Parmegiana, uma escolha irresistível e
+                                soculenta.</p>
+                            <h6><span class="full">&starf;&starf;&starf;&starf;&starf;</span>5.0 Estrelas</h6>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 18rem;">
+                        <img src="imagens/feijoada.jfif" class="card-img-top" alt="..." height="200px" width="200px">
+                        <div class="card-body">
+                            <h5 class="card-title">Feijoada</h5>
+                            <p class="card-text">Delicie-se da nossa Feijoada; a melhor da cidade, além de ser feita na
+                                hora.</p>
+                            <h6><span class="full">&starf;&starf;&starf;&starf;&starf;</span>5.0 Estrelas</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="index.js"></script>
+</body>
+
+</html>

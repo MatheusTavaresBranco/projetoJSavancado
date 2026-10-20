@@ -1,0 +1,65 @@
+[
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/file.jfif",
+    "produto": "Filé com Fritas",
+    "descricao": "Delicie-se com nosso Filé com Fritas, batatas crocantes e um tempero caseiro delicioso."
+  },
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/frango.jfif",
+    "produto": "Frango à Parmegiana",
+    "descricao": "Delicie-se com o nosso Frango à Parmegiana, uma escolha irresistível e suculenta."
+  },
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/feijoada.jfif",
+    "produto": "Feijoada",
+    "descricao": "Delicie-se com nossa feijoada, feita na hora e com o melhor sabor da cidade."
+  },
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/lasanha.jfif",
+    "produto": "Lasanha Bolonhesa",
+    "descricao": "Camadas de massa, molho bolonhesa suculento e queijo gratinado no ponto certo."
+  },
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/risoto.jfif",
+    "produto": "Risoto de Camarão",
+    "descricao": "Arroz cremoso com camarões frescos, temperos delicados e toque de limão siciliano."
+  },
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/espaguete.jfif",
+    "produto": "Espaguete à Carbonara",
+    "descricao": "Massa al dente envolvida em molho cremoso com pancetta crocante e queijo parmesão."
+  },
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/strogonoff.jfif",
+    "produto": "Strogonoff de Carne",
+    "descricao": "Cubos de carne macia em molho cremoso com champignon, arroz e batata palha."
+  },
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/caldo.jfif",
+    "produto": "Caldo Verde",
+    "descricao": "Caldo saboroso com batata, couve finamente cortada e linguiça artesanal."
+  },
+  {
+    "nome": "Matheus Tavares",
+    "restaurante": "VEROCAI",
+    "imagem": "imagens/moqueca.jfif",
+    "produto": "Moqueca de Peixe",
+    "descricao": "Peixe fresco cozido em molho de tomate, leite de coco e temperos típicos, servido com arroz branco."
+  }
+]
